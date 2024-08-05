@@ -225,7 +225,7 @@ export const pricing = [
   {
     id: "1",
     title: "Maximizing ROI",
-    description: "AdBy optimizing production processes and improving efficiency",
+    description: " optimizing production processes and improving efficiency",
     features: [
       "TC Energy can significantly reduce operational costs and maximize return on investment",
       "This financial benefit is crucial for sustaining growth and profitability",
