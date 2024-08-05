@@ -1,4 +1,5 @@
 import { curve, heroBackground, robot } from "../assets";
+import zeus from "../assets/hero/Zeus.png"
 import Button from "./Button";
 import Section from "./Section";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
@@ -21,27 +22,18 @@ const Hero = () => {
       id="hero"
     >
       <div className="container relative" ref={parallaxRef}>
-        <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
-          <h1 className="h1 mb-6">
-          Welcome to Zeus Consulting {` `}
-            <span className="inline-block relative">
-             Impactful projects{" "}
-              <img
-                src={curve}
-                className="absolute top-full left-0 w-full xl:-mt-2"
-                width={624}
-                height={28}
-                alt="Curve"
-              />
-            </span>
-          </h1>
-          <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          your partner in driving innovative energy solutions. Our mission is to leverage our expertise in business analysis, project management, and strategic partnerships
-          </p>
-          <Button href="/pricing" white>
-            Get started
-          </Button>
-        </div>
+      <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
+    <h1 className="h1 mb-6">
+        Welcome to Zeus Consulting {` `}
+        <span className="inline-block relative">
+        
+        </span>
+    </h1>
+    <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
+        Your partner in driving innovative energy solutions. Our mission is to leverage our expertise in business analysis, project management, and strategic partnerships.
+    </p>
+</div>
+
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient">
             <div className="relative bg-n-8 rounded-[1rem]">
@@ -50,12 +42,23 @@ const Hero = () => {
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                 <img
                   src={robot}
-                  className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
+                  className="w-full  scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
                   width={1024}
                   height={490}
                   alt="AI"
                 />
-
+              <img
+                  src={zeus}
+                  className="absolute inset-0 w-[20%] h-[20%] m-auto object-contain"
+                  width={200}
+                  height={200}
+                  alt="Zeus"
+                />
+                {/* Text below the Zeus image */}
+                <div className="absolute inset-x-0 bottom-80 text-center text-white text-2xl font-bold text-blue-950">
+                  Show us your dreams and we’ll figure out how to make them come true
+                </div>
+        
                 <Generating className="absolute left-4 right-4 bottom-5 md:left-1/2 md:right-auto md:bottom-8 md:w-[31rem] md:-translate-x-1/2" />
 
                 <ScrollParallax isAbsolutelyPositioned>
@@ -71,7 +74,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Code generation"
+                    title="Synthetic Fuel"
                   />
                 </ScrollParallax>
               </div>
