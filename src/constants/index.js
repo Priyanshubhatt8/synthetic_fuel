@@ -39,37 +39,42 @@ export const navigation = [
   {
     id: "0",
     title: "Home",
-    url: "#Home",
+    url: "#",
   },
   {
     id: "1",
     title: "About",
-    url: "#features",
+    url: "#About",
   },
   {
     id: "2",
     title: "projects",
-    url: "#pricing",
+    url: "#projects",
   },
   {
     id: "3",
     title: "Synthetic fuel",
-    url: "#how-to-use",
+    url: "#Synthetic-fuel",
   },
   {
     id: "4",
     title: "Implementation ",
-    url: "#roadmap",
+    url: "#Implementation",
   },
   {
    id:"5",
    title:"Environmental impact",
-   url:"#roadmap"
+   url:"#Environmental-impact"
+  },
+  {
+    id: "6",
+    title: "Feasibility",
+    url: "https://stuconestogacon-my.sharepoint.com/:x:/g/personal/peeyoosh7646_conestogac_on_ca/ERTbdahg47lHo8AsFaecIXUBXc1ZK6gMkYIiMRwrxCFB3A?e=UOz4Hn",
   },
   {
     id: "5",
     title: "Contact",
-    url: "#roadmap",
+    url: "#Contact",
   },
 
 {}

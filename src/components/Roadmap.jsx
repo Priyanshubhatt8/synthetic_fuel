@@ -39,7 +39,7 @@ const Roadmap = () => {
   const closePopup = () => setIsPopupOpen(false);
 
   return (
-    <Section className="overflow-hidden" id="roadmap">
+    <Section className="overflow-hidden" id="Contact">
       <div className="container md:pb-10">
         <Heading title="Environmental Impact" />
 
