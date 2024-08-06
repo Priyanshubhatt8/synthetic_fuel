@@ -16,7 +16,7 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          title="Implementation Strategy."
+          title="Implementation Strategy"
           text="Project Planning"
         />
 

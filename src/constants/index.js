@@ -96,7 +96,7 @@ export const roadmap = [
   {
     id: "0",
     title: "Positive Impact",
-    text: "Environmental Benefits: Significant reduction in carbon emissions and reliance on fossil fuels, aligning with global sustainability goals. 	Energy Cost Savings: Lower energy costs over time due to the reduced need for purchasing external energy sources. Energy Security: Enhanced energy security and independence through diversified energy sources.",
+    text: "Environmental Benefits: Significant reduction in carbon emissions and reliance on fossil fuels, aligning with global sustainability goals. 	Energy Cost Savings: Lower energy costs over time due to the reduced need for purchasing external energy sources. Energy Security: Enhanced energy security and independence through diversified energy sources.TC Energy is a giant member of the TSX-60, indicating its high market capitalization and importance. Long-term contracts and strategic asset placements in key regions offer the organization steady sales streams, which help it function well in the marketplace. While the stock price may additionally range, TC Energy's sizeable market presence and numerous portfolios defend against these risks because of regulatory adjustments, strength price variations, and other economic issues. The enterprise's competitive market strategies and regular overall performance make it a secure investment within the power enterprise.TC Energy is firmly committed to implementing ESG standards. The company has set bold dreams to lessen carbon depth by 30% by 2030, demonstrating its dedication to environmental sustainability. Social obligation tasks include working with indigenous humans, prioritizing worker safety, and contributing to local improvement. TC Energy's governance is prominent because it uses top-notch company governance approaches, transparency, and accountability, which makes it confident that the company remains a responsible and moral industry actor. These measures help TC Energy's recognition and meet the developing investor’s desire for sustainable and responsible corporate operations. ",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap1,
@@ -113,7 +113,7 @@ export const roadmap = [
   {
     id: "2",
     title: "Recent Developments",
-    text: "TC Energy has recently concentrated on portfolio optimization through asset dispositions, which involve selling non-core assets to streamline operations and increase financial flexibility. Significant capital projects, such as the Keystone XL pipeline and the Coastal GasLink project, remain critical to the company's expansion plan. TC Energy is also developing strategic collaborations to broaden its expertise and market reach, notably in the renewable energy industry. These developments demonstrate the company's dedication to expansion and adaptability in a continuously changing energy industry.",
+    text: "TC Energy has recently concentrated on portfolio optimization through asset dispositions, which involve selling non-core assets to streamline operations and increase financial flexibility. Significant capital projects, such as the Keystone XL pipeline and the Coastal GasLink project, remain critical to the company's expansion plan. TC Energy is also developing strategic collaborations to broaden its expertise and market reach, notably in the renewable energy industry. These developments demonstrate the company's dedication to expansion and adaptability in a continuously changing energy industry. TC Energy Corporation is a prominent and prominent North American energy infrastructure player. Its robust financial performance, vast operating network, and dedication to ESG principles demonstrate its durability and agility. Despite numerous hurdles, TC Energy has continued to thrive via smart investments, asset optimization, and creative sustainability programs. The company's strong financial indicators and proactive market and operational initiatives set it up for long-term growth and stability in the competitive energy industry.",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap4,
@@ -252,7 +252,7 @@ export const benefits = [
   {
     id: "0",
     title: "Current Project",
-    text: "Synthetic Fuel initiative For TC energy An ambitious project to develop state-of-the-art synthetic fuel production facilities, invest in R&D, adapt existing infrastructure, and establish strategic partnerships. The evaluation for TC Energy Corporation outlines detailed plans for implementing a synthetic fuel production system. TC Energy, primarily involved in natural gas and crude oil production, aims to expand by integrating synthetic fuels. Their goal is to produce a minimum of 100 million liters annually by Q3 2027, demonstrating a strategic commitment to innovation and growth.",
+    text: "Synthetic Fuel initiative For TC energy An ambitious project to develop state-of-the-art synthetic fuel production facilities, invest in R&D, adapt existing infrastructure, and establish strategic partnerships. The evaluation for TC Energy Corporation outlines detailed plans for implementing a synthetic fuel production system. TC Energy, primarily involved in natural gas and crude oil production, aims to expand by integrating synthetic fuels. Their goal is to produce a minimum of 100 million liters annually by Q3 2027, demonstrating a strategic commitment to innovation and growth.The assessment starts with the mapping of functionalities that TC Energy has in place; this covers current operations in natural gas and crude oil, as well as the processing and distribution of power. It spells out detailed specifications for the new synthetic fuel production system that shall include, without limitation, the use of high-temperature steam electrolysis, nuclear energy, the use of CO2 from biorefineries and the incorporation of the Fischer Tropsch process to synthesize liquid hydrocarbons from CO2 and hydrogen—subsequently, the requisite infrastructure developments for the distribution networks, storage tanks, and pipelines.Three potential solutions are considered in detail, providing a balanced analysis of how to reach the overall objectives of producing synthetic fuel. The solutions can then be compared and evaluated according to specific factors that include cost, time for implementation, modularity or flexibility, feasibility level, resource demands, risks, management and provisions needed, influence on business procedures, and compliance with respective benchmarks in the field of technology economy. Thus, the specifics of the analysis aimed at offering TC Energy a clear and comprehensive overview of the options for substantial further development and keeping the strategic advantage in the context of the energy market",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -261,7 +261,7 @@ export const benefits = [
   {
     id: "3",
     title: "Solar Power Integration",
-    text: " A comprehensive project to integrate solar power into existing energy systems, enhance grid stability, and promote sustainable energy solutions.   ",
+    text: " A comprehensive project to integrate solar power into existing energy systems, enhance grid stability, and promote sustainable energy solutions.A robust and forward-thinking project to integrate solar power into existing energy systems involves a multifaceted approach to enhance grid stability and promote sustainable energy solutions. The initiative aims to incorporate advanced photovoltaic technologies and energy storage systems to optimize solar energy capture and utilization. By seamlessly integrating solar power with current grid infrastructure, the project seeks to address the challenges of intermittent energy supply and demand fluctuations, ensuring a reliable and resilient power grid.   ",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -270,7 +270,7 @@ export const benefits = [
   {
     id: "4",
     title: "Electric Vehicle Charging Network",
-    text: "An initiative to establish a widespread network of electric vehicle charging stations, supporting the adoption of electric vehicles and reducing emissions.",
+    text: "An initiative to establish a widespread network of electric vehicle charging stations, supporting the adoption of electric vehicles and reducing emissions.This ambitious project aims to deploy a comprehensive network of strategically located charging stations across urban and rural areas, ensuring accessibility and convenience for EV owners. By integrating cutting-edge fast-charging technology and user-friendly interfaces, the initiative will enhance the overall driving experience, reduce range anxiety, and encourage more drivers to transition to electric mobility. In addition to supporting the growing number of electric vehicles on the road, the network will contribute to a cleaner environment by lowering reliance on fossil fuels and curbing harmful emissions.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -278,7 +278,7 @@ export const benefits = [
   {
     id: "5",
     title: "Smart Grid Technology Implementation",
-    text: "A project focused on implementing smart grid technologies to optimize energy distribution, improve reliability, and facilitate the integration of renewable energy sources. ",
+    text: "A project focused on implementing smart grid technologies to optimize energy distribution, improve reliability, and facilitate the integration of renewable energy sources.This initiative involves deploying advanced grid management systems, real-time monitoring tools, and automated control mechanisms to create a more responsive and adaptable energy infrastructure. By leveraging data analytics, artificial intelligence, and Internet of Things (IoT) technologies, the smart grid will enable precise management of energy flow, minimizing outages and reducing operational costs. The integration of renewable energy sources, such as solar and wind, will be streamlined through sophisticated grid balancing techniques and energy storage solutions, ensuring a stable and sustainable power supply.  ",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
