@@ -23,7 +23,7 @@ const Benefits = () => {
             className={`px-4 py-2 mx-2 text-lg font-medium text-white transition-all duration-300 ${view === "current" ? "border-b-2 border-white" : "hover:border-b-2 hover:border-white"}`}
             onClick={() => setView("current")}
           >
-            Current Projects
+            Current Project
           </button>
           <button
             className={`px-4 py-2 mx-2 text-lg font-medium text-white transition-all duration-300 ${view === "past" ? "border-b-2 border-white" : "hover:border-b-2 hover:border-white"}`}
